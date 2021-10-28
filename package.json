@@ -3,8 +3,17 @@
     "displayName": "zer0 theme ✨",
     "description": "inácio's custom theme! 😙",
     "version": "0.0.1",
+    "publisher": "inacio",
     "engines": {
         "vscode": "^1.61.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/inacioMattos/zer0-theme"
+    },
+    "galleryBanner": {
+        "color": "#fd1375",
+        "theme": "dark"
     },
     "categories": [
         "Themes"
