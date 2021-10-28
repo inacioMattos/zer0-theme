@@ -1,0 +1,21 @@
+{
+    "name": "zer0",
+    "displayName": "zer0 theme ✨",
+    "description": "inácio's custom theme! 😙",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.61.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "zer0 theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/zer0 theme-color-theme.json"
+            }
+        ]
+    }
+}
